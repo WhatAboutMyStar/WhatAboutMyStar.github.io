@@ -21,7 +21,7 @@ I'm a undergraduate student in Central China Normal University (CCNU) and get a 
 Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn <br>
 If you use zhihu you can find me in [zhihu-link](https://www.zhihu.com/people/ye-xing-chen-84-58)
 
-## Research
+## Research Interest
 Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network
 
 ## Some Repositories About ML
@@ -31,6 +31,9 @@ Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Networ
 
 ## Work Experience
 2021.1-2021.4 intern algorithm engineer in [inspirai](http://inspirai.com/)
+
+## Representative Papers 
+.......
 
 ## Education
 

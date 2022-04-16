@@ -36,5 +36,5 @@ Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Networ
 - 2017-2021 <br>
   Bachelor of Laws; Central China Normal University (CCNU) <br>
   Bachelor of Engineering; Huazhong University of Science and Technology (HUST) <br>
-- 2021-2024
+- 2021-2024 <br>
   Master of Engineering; Shaanxi Normal University (SNNU)

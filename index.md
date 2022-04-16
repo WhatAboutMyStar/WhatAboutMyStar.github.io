@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Hi! I'm Yiheng Liu 👋
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=WhatAboutMyStar&show_icons=true">
 
-You can use the [editor on GitHub](https://github.com/WhatAboutMyStar/WhatAboutMyStar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!--
+**WhatAboutMyStar/WhatAboutMyStar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here are some ideas to get you started:
 
-### Markdown
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About Me
+I'm a undergraduate student in Central China Normal University (CCNU) and get a CS double degree in Huazhong University of Science and Technology(HUST). I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.<br>
+Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn
 
-```markdown
-Syntax highlighted code block
+## Research
+Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network
 
-# Header 1
-## Header 2
-### Header 3
+## Some Repositories About ML
+- Using numpy to implement [MachineLearningAlgorithm](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm)
+- Computer vision [SaliencyDetection](https://github.com/WhatAboutMyStar/SaliencyDetection)
+- Implement Reinforcement Learning Algorithm and environment [RL_Code](https://github.com/WhatAboutMyStar/RL_Code)
 
-- Bulleted
-- List
+## Work Experience
+2021.1-2021.4 intern algorithm engineer in [inspirai](http://inspirai.com/)
 
-1. Numbered
-2. List
+## Education
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WhatAboutMyStar/WhatAboutMyStar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 2017-2021 <br>
+  Bachelor of Laws; Central China Normal University (CCNU) <br>
+  Bachelor of Engineering; Huazhong University of Science and Technology (HUST) <br>
+- 2021-2024
+  Master of Engineering; Shaanxi Normal University (SNNU)

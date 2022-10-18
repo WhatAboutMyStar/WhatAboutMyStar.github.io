@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me
 I'm a undergraduate student in Central China Normal University (CCNU) and get a CS double degree in Huazhong University of Science and Technology(HUST). I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.
 
-Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn
+Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn, lyh37779816@gmail.com
 
 - [Google scholar](https://scholar.google.com/citations?user=W7mUggsAAAAJ&hl=en)  
 - [Research Gate](https://www.researchgate.net/profile/Yiheng-Liu-12)

@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I'm a undergraduate student in Central China Normal University (CCNU) and get a CS double degree in Huazhong University of Science and Technology(HUST). I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.<br>
-Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn <br>
-If you use zhihu you can find me in [zhihu-link](https://www.zhihu.com/people/ye-xing-chen-84-58)
+I'm a undergraduate student in Central China Normal University (CCNU) and get a CS double degree in Huazhong University of Science and Technology(HUST). I am currently a master student major in Signal and Information Processing at Shaanxi Normal University.
+
+Email: 412929473@qq.com, lyh37779816@163.com, liuyiheng@snnu.edu.cn
+
+- [Google scholar](https://scholar.google.com/citations?user=W7mUggsAAAAJ&hl=en)  
+- [Research Gate](https://www.researchgate.net/profile/Yiheng-Liu-12)
+- [zhihu](https://www.zhihu.com/people/ye-xing-chen-84-58) 
 
 ## Research Interest
 Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network
@@ -37,8 +41,12 @@ Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Networ
 
 ## Education
 
-- 2017-2021 <br>
-  Bachelor of Laws; Central China Normal University (CCNU) <br>
-  Bachelor of Engineering; Huazhong University of Science and Technology (HUST) <br>
-- 2021-2024 <br>
+- 2017-2021 
+
+  Bachelor of Laws; Central China Normal University (CCNU)
+  
+  Bachelor of Engineering; Huazhong University of Science and Technology (HUST)
+  
+- 2021-2024 
+
   Master of Engineering; Shaanxi Normal University (SNNU)

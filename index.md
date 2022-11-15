@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-Graduated from Central China Normal University (CCNU) with CS double degree in Huazhong University of Science and Technology (HUST),  I am currently a master student majored Signal and Information Processing at Shaanxi Normal University
+Graduated from Central China Normal University (CCNU) with CS double degree in Huazhong University of Science and Technology (HUST),  I am currently a master student majored Signal and Information Processing at Shaanxi Normal University.
 
 
 ### Email: 

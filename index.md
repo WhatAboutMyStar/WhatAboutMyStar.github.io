@@ -44,7 +44,13 @@ Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Networ
 2021.1-2021.4 intern algorithm engineer in [inspirai](http://inspirai.com/)
 
 ## Representative Papers 
-.......
+
+| Paper | PDF Link | Code |
+|-------|-----|------|
+| **Yiheng Liu**, Enjie Ge, Ning Qiang, Tianming Liu, and Bao Ge. "Spatial-Temporal Convolutional Attention for Mapping Functional Brain Networks." In 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI). | [pdf](https://arxiv.org/abs/2211.02315) | [code](https://github.com/SNNUBIAI/STCAE) |
+| **Yiheng Liu**, Enjie Ge, Mengshen He, Zhengliang Liu, Shijie Zhao, Xintao Hu, Dajiang Zhu, Tianming Liu, and Bao Ge. "Discovering Dynamic Functional Brain Networks via Spatial and Channel-wise Attention." arXiv preprint arXiv:2205.09576 (2022).  | [pdf](https://arxiv.org/abs/2205.09576) | [code](https://github.com/WhatAboutMyStar/SCAAE) |
+| |  |  |
+
 
 ## Education
 

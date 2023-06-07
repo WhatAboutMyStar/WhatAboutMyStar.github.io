@@ -30,7 +30,6 @@ Graduated from Central China Normal University (CCNU) with CS double degree in H
 ### LinkTree:
 - [Google scholar](https://scholar.google.com/citations?user=W7mUggsAAAAJ&hl=en)  
 - [Research Gate](https://www.researchgate.net/profile/Yiheng-Liu-12)
-- [zhihu](https://www.zhihu.com/people/ye-xing-chen-84-58) 
 
 ## Research Interest
 Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network

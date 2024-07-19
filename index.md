@@ -23,16 +23,16 @@ Graduated from Central China Normal University (CCNU) with CS double degree in H
 ### Email: 
 
 - 412929473@qq.com 
-- lyh37779816@163.com 
 - liuyiheng@snnu.edu.cn 
 - lyh37779816@gmail.com
+- liuyiheng123@mail.nwpu.edu.cn
 
 ### LinkTree:
 - [Google scholar](https://scholar.google.com/citations?user=W7mUggsAAAAJ&hl=en)  
 - [Research Gate](https://www.researchgate.net/profile/Yiheng-Liu-12)
 
 ## Research Interest
-Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network
+Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Network; Brain Inspired AI
 
 ## Some Repositories About ML
 - Using numpy to implement [MachineLearningAlgorithm](https://github.com/WhatAboutMyStar/MachineLearningAlgorithm)
@@ -64,3 +64,7 @@ Deep Learning, Machine Learning, Reinforcement Learning, Functional Brain Networ
 - 2021-2024 
 
   Master of Engineering; Shaanxi Normal University (SNNU)
+
+- 2024-2028
+
+  Doctor of Engineering; Northwestern Polytechnical University (NWPU)
